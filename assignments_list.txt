@@ -1,0 +1,28 @@
+21 assignment
+
+
+30 percent overall work load.
+
+39985
+39977
+39988
+39990
+39993
+39994
+39995
+39987
+39969
+
+
+Hi Professor Eraslan,
+I am  Sen. Hope you are doing well.
+
+As first year students, we have to do TA jobs for ECON 100. One job is to monitor students' disccusion on Canvas. I wrote a JavaScript program to do it. Without this program, monitoring could account for one-third of overall working load.
+ 
+I was wondering whether I could take care of this job for the following years (if I surrvive) for an unpaid job/assistance verification used to apply Social Security Number. If for any reason it is not OK, please feel free to say no. I'd love to share the program with incoming students.
+
+To write this program, I carefully studied front end of Canvas. If any professor wants to do experiment via it, I am glad to help. 
+
+Best wishes, 
+Sen
+

@@ -1,0 +1,14 @@
+Hi guys,
+I have written a program to automatically grade discussions in Econ 100. I think I can monitor all nineteen discussions left, unless canvas thoroughly redecorate their front end. And if any of you are interested in how to build it, I'd be more than happy to share my thought and code (CasperJS written in JavaScript).
+
+Yes, it works. I send it here, in case anyone want to play with it. Once install PhantomJS and CasperJS, you can run it. Plug assignment id, ur netid and pwd in the first three lines, and then run it. I deliberately make it work at a moderate speed, so that Canvas won't treat my program as a hostile robot.
+ 
+Lol, I am just too lazy to do it manually. 
+
+Hi Jimmy,
+I am Sen Lu, one TA of Econ 100. I am sorry to hear that your family had a mandatory evacuation. Hope you are doing well now.
+This week, it is my turn to monitor discussion board. I had written a program to automatically grade discussions. It functions effectively and soundly, and notably better than manually clicking. It would be easy enough for me to monitor all discussions left. 
+It could reduce other TAs' workload, but first I should seek authorization from you to do so. Are you good with it being done by a computer program?
+
+Best,
+Sen 

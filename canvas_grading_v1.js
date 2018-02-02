@@ -8,7 +8,7 @@ var UrPwd = "*** pwd here ***";
 // ======== You are all set. Execute it! =====================
 var status = [];
 var ungrad_id = [];
-var url_1 = "https://canvas.rice.edu/courses/6915/gradebook/speed_grader?assignment_id=";
+var url_1 = "https://canvas.rice.edu/courses/10597/gradebook/speed_grader?assignment_id=";
 var url_2 = "#";
 var url_3 = "{\"student_id\":\"";
 var url_4 = "\"}";

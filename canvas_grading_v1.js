@@ -1,5 +1,5 @@
 /**
- * Created by Luxem on 8/31/2017.
+ * Created by Luxem on 8/31/2017. Modified some course detail on 2/2/2018
  */
 // ======== Plug required information here! ==================
 var assignment_id = "39973";
